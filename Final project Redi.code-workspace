@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../Escritorio/JIT_Simulator/backend"
+		},
+		{
+			"path": "../Escritorio/JIT_Simulator/data"
+		},
+		{
+			"path": "../Escritorio/JIT_Simulator/docs"
+		},
+		{
+			"path": "../Escritorio/JIT_Simulator/frontend"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "frontend"
+	}
+}
